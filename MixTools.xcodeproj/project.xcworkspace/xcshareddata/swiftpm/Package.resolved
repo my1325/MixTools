@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "handyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alibaba/HandyJSON.git",
+      "state" : {
+        "revision" : "dcf39cf062680ffa4fd0acb7f9117a97755c113f",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "plist",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/my1325/Plist.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "233c0ab4022f48f4ccb83754bc153caf38ff3ff2"
+      }
+    }
+  ],
+  "version" : 2
+}
